@@ -1,9 +1,0 @@
-.card{
-  background-color: blue;
-  height: 400px;
-  width: 400px;
-  color: white;
-}
-.card:hover{
-  background-color: aqua;
-}
