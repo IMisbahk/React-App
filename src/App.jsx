@@ -1,17 +1,10 @@
-import Header from "./header.jsx"
-import Footer from "./footer.jsx";
-import Food from "./food.jsx";
-import Section from "./section.jsx";
-
+import Card from "./Card";
+import css from './index.css'
 function App() {
   return(
     <>
-      <Header/>
-      <Food/>
-      <Section/>
-      <Footer/>
+    <Card></Card>
     </>
-    
   );
 }
 
