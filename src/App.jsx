@@ -8,8 +8,9 @@ function App() {
     <Card />
     <Card />
     <Button />
-    <Student name = "Misbah" age = {16}/>
-    <Student name = "spongebob" age = {30}/>
+    <Student name = "Misbah" age = {16} isStudent = {true}/>
+    <Student name = "spongebob" age = {30} isStudent = {false}/>
+    <Student/>
     </>
   );
 }
