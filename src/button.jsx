@@ -10,6 +10,6 @@ function Button()
     }
     return(
         <button style={styles}>Click me</button>
-    )
+    );
 }
 export default Button
