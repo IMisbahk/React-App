@@ -1,3 +1,4 @@
+import css from './index.css'
 function Card(){
     return( 
         <div className="card">
